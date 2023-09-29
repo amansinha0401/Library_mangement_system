@@ -1,0 +1,13 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .aman {
+    margin: 20px;
+    display: flex;
+    
+  }
+  .ak{
+    width: 100%;
+  }
